@@ -100,6 +100,12 @@ list_of_numbers = [
 - Write them for all public modules and classes.
 - Write them for non-obvious functions and methods.
 - Put the "­"­" that ends a multiline docstring on a line by itself.
+```py
+"""
+Multiline
+Docstring
+"""
+```
 - For one-line docstr­ings, keep the "­"­" on the same line.
 
 ## Whitespace Around Binary Operators
